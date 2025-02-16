@@ -14,12 +14,17 @@ h2{
     text-align: center;
 }
 header{
-background-color: rgb(2, 61, 7);
+background-color: rgb(3, 90, 10);
 color: aliceblue;
 padding: 10px;
 text-align: center;
 width: 100%;
 
+}
+a{
+    text-decoration: none;
+   color: aliceblue;
+ 
 }
 main{
     background-color: rgb(51, 58, 53);
